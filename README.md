@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @difo-n8r
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React & Python
-- 💞️ I’m looking to collaborate on any web related project
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on any Data Analyst Project
 - 📫 How to reach me github.com/difo-n8r
 
 <!---
